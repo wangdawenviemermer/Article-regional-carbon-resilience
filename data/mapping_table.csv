@@ -1,0 +1,48 @@
+﻿CEADs 英文行业,classify_one
+"Farming, Forestry, Animal Husbandry, Fishery and Water Conservancy",other
+Coal Mining and Dressing,Industry
+Petroleum and Natural Gas Extraction,Industry
+Ferrous Metals Mining and Dressing,Industry
+Nonferrous Metals Mining and Dressing,Industry
+Nonmetal Minerals Mining and Dressing,Industry
+Other Minerals Mining and Dressing,Industry
+Logging and Transport of Wood and Bamboo,Industry
+Food Processing,Industry
+Food Production,Industry
+Beverage Production,Industry
+Tobacco Processing,Industry
+Textile Industry,Industry
+Garments and Other Fiber Products,Industry
+"Leather, Furs, Down and Related Products",Industry
+"Timber Processing, Bamboo, Cane, Palm Fiber & Straw Products",Industry
+Furniture Manufacturing,Industry
+Papermaking and Paper Products,Industry
+Printing and Record Medium Reproduction,Industry
+"Cultural, Educational and Sports Articles",Industry
+Petroleum Processing and Coking,Industry
+Raw Chemical Materials and Chemical Products,Industry
+Medical and Pharmaceutical Products,Industry
+Chemical Fiber,Industry
+Rubber Products,Industry
+Plastic Products,Industry
+Nonmetal Mineral Products,Industry
+Smelting and Pressing of Ferrous Metals,Industry
+Smelting and Pressing of Nonferrous Metals,Industry
+Metal Products,Industry
+Ordinary Machinery,Industry
+Equipment for Special Purposes,Industry
+Transportation Equipment,Industry
+Electric Equipment and Machinery,Industry
+Electronic and Telecommunications Equipment,Industry
+"Instruments, Meters, Cultural and Office Machinery",Industry
+Other Manufacturing Industry,Industry
+Scrap and waste,Industry
+"Production and Supply of Electric Power, Steam and Hot Water",Power
+Production and Supply of Gas,Power
+Production and Supply of Tap Water,Residential
+Construction,Industry
+"Transportation, Storage, Post and Telecommunication Services",Transport
+"Wholesale, Retail Trade and Catering Services",Residential
+Others,Residential
+Urban,Residential
+Rural,Residential

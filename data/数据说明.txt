@@ -1,0 +1,4 @@
+这里提供已进行预处理的数据：
+1.CM_day_actual_province2020-2022.csv已针对原始数据，对2020年2月29日的数据，进行插值处理。
+2.已根据附录S2提供的 Sectoral Alignment Mapping，进行行业映射，现有行业包括：industy、power 和 transport。
+3.这里未提供k值计算的过程，可自行计算。
